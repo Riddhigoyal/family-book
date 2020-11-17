@@ -1,0 +1,18 @@
+body{
+    Text-align: center;
+    }
+    #first{
+    font-style: Smallcaps;
+    font-size: 90px;
+    }
+    #album{
+    border-style: solid;
+    Border-color: black;
+    width: 500px;
+    height: 600px;
+    }
+    #p{
+    font-size: medium;
+    font-family: monospace;
+    font-style: italic;
+   }
