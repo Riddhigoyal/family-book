@@ -8,12 +8,12 @@ var names=[
     ""
     ];
     var images=[
-        "images of my family/3.jpeg",
-        "images of my family/2.jpg",
-        "images of my family/4.jpeg",
-        "images of my family/1.jpg",
-        "images of my family/5.jpg",
-        "images of my family/6.jpg",
+        "3.jpeg",
+        "2.jpg",
+        "4.jpeg",
+        "1.jpg",
+        "5.jpg",
+        "6.jpg",
     ]
 
     var k=0;
@@ -25,7 +25,7 @@ var names=[
         if(k>5){
             k=0;
         } 
+        
         document.getElementById("audio").play();
-    
     
     }

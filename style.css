@@ -1,18 +1,32 @@
 body{
-    Text-align: center;
+ Text-align: center;
+ background: linear-gradient(deeppink,magenta,hotpink,pink);
     }
-    #first{
-    font-style: Smallcaps;
-    font-size: 90px;
-    }
-    #album{
-    border-style: solid;
-    Border-color: black;
-    width: 500px;
-    height: 600px;
-    }
-    #p{
-    font-size: medium;
-    font-family: monospace;
-    font-style: italic;
-   }
+
+#first{
+ font-family: 'Dancing Script', cursive;
+ font-size: 90px;
+ text-underline-position: below;
+}
+
+#album{
+ border-style: outset;
+ border-collapse: initial;
+ Border-color: black;
+ width: 350px;
+ height: 500px;
+}
+
+#p{
+ font-size: medium;
+ font-family: monospace;
+ font-style: italic;
+ }
+
+ #gi1{
+     float: left;
+ }
+
+ #gi2{
+    float: right;
+}
